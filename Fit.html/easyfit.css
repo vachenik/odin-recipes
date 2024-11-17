@@ -1,0 +1,267 @@
+html{
+    background-color: rgb(52, 55, 57);
+
+}
+
+h1
+{font-size: xx-large;
+    font-weight: 800;
+    font-style: normal;
+    text-align: left;
+    color: whitesmoke;
+    margin-top: 225px;
+    margin-left: 135px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.introp
+{font-style: normal;
+    text-align: left;
+    color: white;
+font-size: medium;
+font-weight: 500;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-left: 15px;
+}
+
+.startjourney
+{font-size: 100%;
+    font-weight: 700;
+    font-style: normal;
+    text-align: left;
+    color: white;
+    margin-left: 200px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+.firstpic
+{
+float: right;
+margin-left: 20px;
+margin-right: -10px;
+height: 550px;
+width: 570px;
+margin-top: -375px;
+
+}
+
+.meoreh{ font-size: xx-large;
+    font-weight: 800;
+    font-style: normal;
+    text-align: center;
+    color: rgb(192, 184, 184);
+    margin-top: 300px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.pp{
+font-size: larger;
+    font-weight: 800;
+    font-style: normal;
+    text-align: center;
+    color: rgb(192, 184, 184);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.mesameh{
+
+    font-size: x-large;
+    font-weight: 800;
+    font-style: larger;
+    text-align: center;
+    color: rgb(108, 146, 142);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top: 85px;
+
+}
+
+.picc {
+
+    height: 252px;
+    width: 405px;
+}
+
+.piccc{
+
+    height: 252px;
+    width: 405px;
+margin-left: 10px;
+margin-top: 25px;
+
+}
+
+.picccc{
+
+    height: 252px;
+    width: 405px;
+    margin-left: 10px;
+}
+
+.cutbodyfat{
+
+    font-size: large;
+    font-weight: 800;
+    font-style: larger;
+    text-align: left;
+    color: rgb(196, 152, 10);
+font-family: 'Times New Roman', Times, serif;
+margin-left: 150px;
+}
+
+.strength{
+
+    font-size: large;
+    font-weight: 800;
+    font-style: larger;
+    text-align: center;
+    color: rgb(196, 152, 10);
+font-family: 'Times New Roman', Times, serif;
+margin-top: -42px;
+}
+
+.endurance{
+
+    font-size: large;
+    font-weight: 800;
+    font-style: larger;
+    text-align: right;
+    color: rgb(196, 152, 10);
+font-family: 'Times New Roman', Times, serif;
+margin-top: -42px;
+margin-right: 150px;
+}
+
+.cb{
+    font-size: large;
+    font-weight: 800;
+    font-style: larger;
+    text-align: left;
+    color: rgb(197, 199, 205);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-left: 100px;
+margin-top: 150px;
+
+}
+
+.goals{
+
+    font-size: small;
+    font-weight: 800;
+    font-style: larger;
+    text-align: left;
+    color: rgb(197, 199, 205);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    margin-right: 850px;
+}
+
+.st{
+
+    font-size: large;
+    font-weight: 800;
+    font-style: larger;
+    text-align: center;
+    color: rgb(197, 199, 205);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top: -120px;
+}
+
+.goalss{
+
+    font-size: small;
+    font-weight: 800;
+    font-style: larger;
+    text-align: center;
+    color: rgb(197, 199, 205);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 420px;
+    margin-left: 420px;
+}
+
+.end{
+    font-size: large;
+    font-weight: 800;
+    font-style: larger;
+    text-align: right;
+    color: rgb(197, 199, 205);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -123px;
+    margin-right: 140px;
+}
+
+.goalsss{
+    font-size: small;
+    font-weight: 800;
+    font-style: larger;
+    text-align: right;
+    color: rgb(197, 199, 205);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 870px;
+    margin-right: 0px;
+
+}
+
+.diet{
+
+    font-size: xx-large;
+    font-weight: 800;
+    font-style: normal;
+    text-align: left;
+    color: rgb(212, 196, 196);
+    margin-top: 200px;
+    margin-left: 135px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.dietpic{
+
+    float: right;
+    margin-left: 20px;
+    margin-right: -10px;
+    height: 525px;
+    width: 750px;
+    margin-top: -130px;
+
+}
+
+.dietdiv{
+
+    font-style: normal;
+    text-align: left;
+    color: rgb(212, 196, 196);
+font-size: medium;
+font-weight: 500;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top: 40px;
+}
+
+.equipment{
+
+    font-size: x-large;
+    font-weight: 800;
+    font-style: larger;
+    text-align: center;
+    color: rgb(214, 190, 110);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top:125px;
+
+}
+
+.equipmentp{
+
+    font-size: medium;
+    font-weight: 400;
+    font-style: larger;
+    text-align: center;
+    color: rgb(250, 226, 193);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-left: 45px;
+   margin-right: 45px; 
+}
+
+.equips{
+    text-align: center;
+}
